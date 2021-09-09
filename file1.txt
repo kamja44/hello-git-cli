@@ -2,3 +2,4 @@ second
 third - my branch
 hello git
 fourth - my branch
+some hot fix
